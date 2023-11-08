@@ -51,5 +51,8 @@ These markers are designed to last approximately 160 hours each, and the total d
 ## About the Developer
 
 This program was developed by Eric Mulwa, a BSc Electrical and Electronic Engineering student at Dedan Kimathi University of Tehnology 
-During his Industrial Attachment at Center for Development of Electronic Devices (CDED). April 2023
+Under Center for Development of Electronic Devices (CDED). 
+
+## Author
+Eric Mulwa Eng BSc
 
