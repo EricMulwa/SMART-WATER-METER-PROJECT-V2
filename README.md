@@ -54,5 +54,5 @@ This program was developed by Eric Mulwa, a BSc Electrical and Electronic Engine
 Under Center for Development of Electronic Devices (CDED). 
 
 ## Author
-Eric Mulwa Eng BSc
+Eric Mulwa
 
